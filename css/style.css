@@ -1,0 +1,41 @@
+.slider h3,
+.slider h5,
+.parallax-container h3	
+{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.slaid{
+	height: 1000px !important;
+	width: 100%;
+}
+
+.about .container{
+	min-height: 300px;
+}
+.parallax-container .container img{
+	width: 200px;
+	padding-top: 20px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+.parallax-container{
+	max-height: 380px;
+}
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5;
+}
+.portfolio{
+	min-height: 550px;
+}
+.portfolio .judul{
+	padding-top: 15px;
+}
+footer{
+	padding: 15px 0;
+}
+
+
+
+
+
+
